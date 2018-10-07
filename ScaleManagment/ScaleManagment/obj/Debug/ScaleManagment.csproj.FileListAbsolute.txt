@@ -1,0 +1,17 @@
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Debug\ScaleManagment.exe.config
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.csprojResolveAssemblyReference.cache
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmInput.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmLogin.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmMain.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmItem.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmCar.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmPerson.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.FrmReport.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.frmSearch.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.csproj.GenerateResource.Cache
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Debug\ScaleManagment.exe
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Debug\ScaleManagment.pdb
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Debug\System.Data.SqlServerCe.dll
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.Properties.Resources.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.exe
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Debug\ScaleManagment.pdb

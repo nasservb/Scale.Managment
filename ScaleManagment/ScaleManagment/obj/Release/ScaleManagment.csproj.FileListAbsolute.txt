@@ -1,0 +1,16 @@
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Release\ScaleManagment.exe.config
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Release\ScaleManagment.exe
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Release\ScaleManagment.pdb
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\bin\Release\System.Data.SqlServerCe.dll
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmInput.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmLogin.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmMain.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmItem.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmCar.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmPerson.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.FrmReport.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.frmSearch.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.Properties.Resources.resources
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.csproj.GenerateResource.Cache
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.exe
+C:\Project\Mr.Shekohy\ScaleManagment\ScaleManagment\ScaleManagment\obj\Release\ScaleManagment.pdb
